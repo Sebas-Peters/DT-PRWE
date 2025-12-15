@@ -1,6 +1,6 @@
 <h2>Patient Rated Wrist Evaluation – Decision Tree Version<h2>
 
-<p><span style="font-size:16px;">On this repository, you can find the questionnaire structure of the decision tree (DT) version of the Patient Rated Wrist Evaluation (PRWE): the DT-PRWE. The decision tree version of the questionnaire was published by <a href="https://www.tandfonline.com/doi/abs/10.1080/09638288.2019.1566407"><u>Van der Oest et al. in Disability and Rehabilitation</u></a> in a collaboration between the Erasmus MC, Xpert Clinics, Xpert Handtherapie, and Western University Canada.  </span></p>
+<p>On this repository, you can find the questionnaire structure of the decision tree (DT) version of the Patient Rated Wrist Evaluation (PRWE): the DT-PRWE. The decision tree version of the questionnaire was published by <a href="https://www.tandfonline.com/doi/abs/10.1080/09638288.2019.1566407"><u>Van der Oest et al. in Disability and Rehabilitation</u></a> in a collaboration between the Erasmus MC, Xpert Clinics, Xpert Handtherapie, and Western University Canada.  </p>
 
 <p><span style="font-size:16px;"><strong>What is the PRWE?</strong></span></p>
 
